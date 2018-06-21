@@ -1,0 +1,1 @@
+This is just the solution I came up with for the CS50 Problem Set 1 Mario (More Comfortable).
